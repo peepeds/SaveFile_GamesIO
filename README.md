@@ -11,7 +11,8 @@ This program have a function to read a save file and n to save game data to a sa
 4. Class, string (one of these: "Fighter", "Druid", "Monk", "Rogue", "Wizard", "Paladin", "Ranger", "
                   Cleric", "Warlock").
 
-===
+---
+
 
 Explanation 
 
@@ -28,6 +29,6 @@ Explanation
   original parameter as described in the Description. The data will then be returned as a single struct unit
 - The display procedure will output each parameter contained within the struct
 
-===
+---
 
 Link video : https://youtu.be/YoDI11SkJDI 
