@@ -10,7 +10,7 @@ char parameter = '#';
 struct games {
     int Level;
     map<string, int> Skills;
-    float Coins;
+    int Coins;
     string Class;
 };
 
